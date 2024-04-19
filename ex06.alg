@@ -1,7 +1,6 @@
 algoritmo "Antecessor e Sucessor"
 
 var
-
 n,a,s: inteiro
 
 inicio

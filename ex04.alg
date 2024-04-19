@@ -1,7 +1,6 @@
-algoritmo "Soma"
+algoritmo "Soma de 2 valores"
 
 var
-
 v1,v2, soma: real
 
 inicio
