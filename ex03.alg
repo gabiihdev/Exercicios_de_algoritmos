@@ -1,4 +1,4 @@
-algoritmo "Salário de um funcionário"
+algoritmo "Salário"
 
 var
 nome: caractere

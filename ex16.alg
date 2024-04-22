@@ -1,4 +1,4 @@
-algoritmo "Redução do tempo de vida de um fumante"
+algoritmo "DESAFIO: Redução do tempo de vida de um fumante"
 
 var
 
